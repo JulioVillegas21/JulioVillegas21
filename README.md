@@ -12,11 +12,10 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un estudiante de Ingeniería en Sistemas apasionado por la arquitectura de software y la resolución eficiente de problemas. Actualmente estoy profundizando en **Java, TypeScript y bases de datos relacionales** para construir sistemas escalables. Me adapto rápido a nuevas tecnologías y disfruto aprender en el proceso.
+Soy un estudiante de Ingeniería en Sistemas enfocado en la arquitectura de software y la resolución eficiente de problemas complejos. Actualmente profundizo mis conocimientos en **Java, TypeScript y bases de datos relacionales** para construir aplicaciones sólidas y escalables.
 
-- 💡 **Me destaco en:** Estructuras de datos, Algoritmos, y Programación Orientada a Objetos (POO).
-- 🚀 **Logro reciente:** Diseño y dictado de un Taller Introductorio de Java para estudiantes universitarios.
-- 🎯 **Meta actual:** Incorporarme a un equipo donde pueda crecer como desarrollador y aportar soluciones concretas.
+- 💡 **Áreas de dominio:** Estructuras de datos, Algoritmos y Programación Orientada a Objetos (POO).
+- 🎯 **Meta profesional:** Mi objetivo es incorporarme a un equipo de desarrollo donde pueda aportar soluciones técnicas y, fundamentalmente, aprender sobre las metodologías de trabajo colaborativo y las dinámicas reales de un entorno profesional.
 
 ---
 
@@ -63,5 +62,5 @@ Soy un estudiante de Ingeniería en Sistemas apasionado por la arquitectura de s
 
 <br>
 <div align="center">
-  <em>"Ante los problemas busco soluciones concretas."</em>
+  <em>"El código es como el gimnasio: la constancia es la clave del progreso."</em>
 </div>
