@@ -1,6 +1,6 @@
 <div align="center">
 
-# Julio Villegas
+# Julio Raúl Villegas
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrollador+en+Formaci%C3%B3n;Amante+del+c%C3%B3digo+y+la+l%C3%B3gica)](https://git.io/typing-svg)
 
