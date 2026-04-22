@@ -111,5 +111,4 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en la arquitectura de soft
 <br>
 <div align="center">
   <em>"Saber programar es solo la herramienta; la verdadera ingeniería reside en la capacidad de pensar y resolver problemas de forma concreta."</em>
-</div>."</em>
 </div>
