@@ -49,6 +49,7 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en la arquitectura de soft
 <div align="center">
   <a href="mailto:juliovillegasuba@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/julio.villegass"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=juliovillegas21" alt="Discord" />
 </div>
 
 <br>
