@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrollador+en+Formaci%C3%B3n;Amante+del+c%C3%B3digo+y+la+l%C3%B3gica)](https://git.io/typing-svg)
 
-**Villa Mercedes, San Luis, Argentina** | **UNViMe** (3er año - Promedio 8,20)
+**Villa Mercedes, San Luis, Argentina** | **UNViMe** (3er año - 18 materias aprobadas - Promedio 8,20)
 
 </div>
 
@@ -39,6 +39,8 @@ Soy un estudiante de Ingeniería en Sistemas enfocado en la arquitectura de soft
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 </div>
 
