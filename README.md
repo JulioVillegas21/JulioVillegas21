@@ -14,7 +14,7 @@
 
 Soy un estudiante de Ingeniería en Sistemas enfocado en la arquitectura de software y la resolución eficiente de problemas complejos. Actualmente profundizo mis conocimientos en **Java, TypeScript y bases de datos relacionales** para construir aplicaciones sólidas y escalables.
 
-- **Áreas de dominio:** Estructuras de datos, Algoritmos y Programación Orientada a Objetos (POO).
+- **Áreas de dominio:** Estructuras de datos, Algoritmos y Distintos paradigmas de programacion.
 - **Meta profesional:** Mi objetivo es incorporarme a un equipo de desarrollo donde pueda aportar soluciones técnicas y, fundamentalmente, aprender sobre las metodologías de trabajo colaborativo y las dinámicas reales de un entorno profesional.
 
 ---
